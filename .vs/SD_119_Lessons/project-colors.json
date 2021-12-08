@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3fae1749-9800-4197-9f6c-34521f9d9cd9": {
+      "ProjectGuid": "3fae1749-9800-4197-9f6c-34521f9d9cd9",
+      "DisplayName": "01_TypesAndVariables",
+      "ColorIndex": 0
+    },
+    "42c1e90f-c78b-490f-8dc2-8da73d8df031": {
+      "ProjectGuid": "42c1e90f-c78b-490f-8dc2-8da73d8df031",
+      "DisplayName": "Arithmetic",
+      "ColorIndex": 1
+    },
+    "80020a31-14fb-4a8f-a87b-5b56945f01b2": {
+      "ProjectGuid": "80020a31-14fb-4a8f-a87b-5b56945f01b2",
+      "DisplayName": "02_Operators",
+      "ColorIndex": 2
+    },
+    "5c91d10f-e799-4262-bdd1-6ab5c76dfae4": {
+      "ProjectGuid": "5c91d10f-e799-4262-bdd1-6ab5c76dfae4",
+      "DisplayName": "03_Classes",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,45 @@
+C:\Users\jonah\source\repos\SD_119_Lessons\01_TypesAndVariables\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jonah\source\repos\SD_119_Lessons\01_TypesAndVariables\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jonah\source\repos\SD_119_Lessons\01_TypesAndVariables\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jonah\source\repos\SD_119_Lessons\01_TypesAndVariables\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\jonah\source\repos\SD_119_Lessons\01_TypesAndVariables\bin\Debug\01_TypesAndVariables.dll
+C:\Users\jonah\source\repos\SD_119_Lessons\01_TypesAndVariables\bin\Debug\01_TypesAndVariables.pdb
+C:\Users\jonah\source\repos\SD_119_Lessons\01_TypesAndVariables\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\jonah\source\repos\SD_119_Lessons\01_TypesAndVariables\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\jonah\source\repos\SD_119_Lessons\01_TypesAndVariables\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\jonah\source\repos\SD_119_Lessons\01_TypesAndVariables\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\jonah\source\repos\SD_119_Lessons\01_TypesAndVariables\obj\Debug\01_TypesAndVariables.csproj.AssemblyReference.cache
+C:\Users\jonah\source\repos\SD_119_Lessons\01_TypesAndVariables\obj\Debug\01_TypesAndVariables.csproj.CoreCompileInputs.cache
+C:\Users\jonah\source\repos\SD_119_Lessons\01_TypesAndVariables\obj\Debug\01_TypesAndVariables.csproj.CopyComplete
+C:\Users\jonah\source\repos\SD_119_Lessons\01_TypesAndVariables\obj\Debug\01_TypesAndVariables.dll
+C:\Users\jonah\source\repos\SD_119_Lessons\01_TypesAndVariables\obj\Debug\01_TypesAndVariables.pdb
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\01_TypesAndVariables\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\01_TypesAndVariables\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\01_TypesAndVariables\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\01_TypesAndVariables\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\01_TypesAndVariables\bin\Debug\01_TypesAndVariables.dll
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\01_TypesAndVariables\bin\Debug\01_TypesAndVariables.pdb
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\01_TypesAndVariables\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\01_TypesAndVariables\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\01_TypesAndVariables\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\01_TypesAndVariables\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\01_TypesAndVariables\obj\Debug\01_TypesAndVariables.csproj.AssemblyReference.cache
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\01_TypesAndVariables\obj\Debug\01_TypesAndVariables.csproj.CoreCompileInputs.cache
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\01_TypesAndVariables\obj\Debug\01_TypesAndVariables.csproj.CopyComplete
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\01_TypesAndVariables\obj\Debug\01_TypesAndVariables.dll
+C:\Users\Jonah Zorniger\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\01_TypesAndVariables\obj\Debug\01_TypesAndVariables.pdb
+C:\Users\jonah\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\01_TypesAndVariables\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jonah\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\01_TypesAndVariables\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jonah\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\01_TypesAndVariables\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jonah\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\01_TypesAndVariables\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\jonah\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\01_TypesAndVariables\bin\Debug\01_TypesAndVariables.dll
+C:\Users\jonah\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\01_TypesAndVariables\bin\Debug\01_TypesAndVariables.pdb
+C:\Users\jonah\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\01_TypesAndVariables\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\jonah\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\01_TypesAndVariables\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\jonah\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\01_TypesAndVariables\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\jonah\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\01_TypesAndVariables\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\jonah\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\01_TypesAndVariables\obj\Debug\01_TypesAndVariables.csproj.AssemblyReference.cache
+C:\Users\jonah\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\01_TypesAndVariables\obj\Debug\01_TypesAndVariables.csproj.CoreCompileInputs.cache
+C:\Users\jonah\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\01_TypesAndVariables\obj\Debug\01_TypesAndVariables.csproj.CopyComplete
+C:\Users\jonah\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\01_TypesAndVariables\obj\Debug\01_TypesAndVariables.dll
+C:\Users\jonah\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\01_TypesAndVariables\obj\Debug\01_TypesAndVariables.pdb
