@@ -23,7 +23,11 @@ namespace _03_Classes.Tests
             
             person.Vehicle = myCar;
 
-            Console.WriteLine($"My name is {person.FirstName} and I drive a {person.Vehicle.Make}{person.Vehicle.Model}");
+            Console.WriteLine($"My name is {person.FirstName} and I drive a {person.Vehicle.Make} {person.Vehicle.Model}");
+            Console.WriteLine($"{person.FirstName} is {person.Age} years old");
+
+            Person otherPerson = new Person("Terry", "Brown", new DateTime(2001, 01, 01));
+        
         }
     }
 }

@@ -27,3 +27,4 @@ C:\Users\jonah\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119
 C:\Users\jonah\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\02_Operators\obj\Debug\02_Operators.csproj.CopyComplete
 C:\Users\jonah\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\02_Operators\obj\Debug\02_Operators.dll
 C:\Users\jonah\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\02_Operators\obj\Debug\02_Operators.pdb
+C:\Users\jonah\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\02_Operators\obj\Debug\02_Operators.csproj.AssemblyReference.cache

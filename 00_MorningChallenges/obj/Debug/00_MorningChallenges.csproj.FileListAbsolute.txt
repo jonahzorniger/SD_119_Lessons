@@ -1,0 +1,15 @@
+C:\Users\jonah\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\00_MorningChallenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jonah\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\00_MorningChallenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jonah\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\00_MorningChallenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jonah\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\00_MorningChallenges\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\jonah\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\00_MorningChallenges\bin\Debug\00_MorningChallenges.dll
+C:\Users\jonah\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\00_MorningChallenges\bin\Debug\00_MorningChallenges.pdb
+C:\Users\jonah\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\00_MorningChallenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\jonah\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\00_MorningChallenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\jonah\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\00_MorningChallenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\jonah\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\00_MorningChallenges\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\jonah\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\00_MorningChallenges\obj\Debug\00_MorningChallenges.csproj.AssemblyReference.cache
+C:\Users\jonah\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\00_MorningChallenges\obj\Debug\00_MorningChallenges.csproj.CoreCompileInputs.cache
+C:\Users\jonah\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\00_MorningChallenges\obj\Debug\00_MorningChallenges.csproj.CopyComplete
+C:\Users\jonah\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\00_MorningChallenges\obj\Debug\00_MorningChallenges.dll
+C:\Users\jonah\OneDrive\Documents\ElevenFiftyAcademy\ElevenFifty_Projects\SD_119_Lessons\00_MorningChallenges\obj\Debug\00_MorningChallenges.pdb
